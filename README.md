@@ -7,4 +7,5 @@ I'll answer the 6 questions for this assignment using plots.
 
 They have clearly decreased as we can see in the plot. We can see that the went from more than 7 million in 1999 to less than 3 and a half million in 2008.
 
+![alt tag](https://raw.githubusercontent.com/ManuelAyaso/NationalEmissionsInventory/master/images/totalEmissions.png)
 
