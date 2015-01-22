@@ -11,6 +11,7 @@ totalEmissionsByTypeAndYear <- ddply(NEI, c("type", "year"), summarize, Emission
 
 png("images/totalEmissionsByTypeAndYear.png")
 
-qplot(year, Emissions, data = totalEmissionsByTypeAndYear, facets = .~ type)
+plot <- qplot(year, Emissions, data = totalEmissionsByTypeAndYear, facets = .~ type)
+print(plot)
 
 dev.off()
