@@ -19,4 +19,4 @@ The total emissions in Baltimore City have drecreased from 1999 to 2008 but this
 
 The nonpoint type has seen a clear decrease in the emissions from PM2.5, the point type has seen a slightly decrease while nonroad and onroad types the decrease is barely inexistence. None of them has increased.
 
-
+![alt tag](https://raw.githubusercontent.com/ManuelAyaso/NationalEmissionsInventory/master/images/totalEmissionsByTypeAndYear.png)
