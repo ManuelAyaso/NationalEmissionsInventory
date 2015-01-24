@@ -29,6 +29,6 @@ The coal related emissions have decreased from 1999 to 2008 (from more than 500 
 
 5) How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
 
-It has decreased from more than 3 thousand to less than 2 thousend, but from from 2002 to 2005 it has increased considerably.
+It has decreased from more than 3 thousands to less than 2 thousands, but from from 2002 to 2005 it has increased considerable.
 
-
+![alt tag](https://raw.githubusercontent.com/ManuelAyaso/NationalEmissionsInventory/master/images/vehicleEmissions.png)
