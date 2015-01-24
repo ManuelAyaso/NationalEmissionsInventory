@@ -24,3 +24,5 @@ The nonpoint type has seen a clear decrease in the emissions from PM2.5, the poi
 4) Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
 
 The coal related emissions have decreased from 1999 to 2008 (from more than 500 thousands to less than 350 thousands), but the biggest decrease was produced after 2005.
+
+![alt tag](https://raw.githubusercontent.com/ManuelAyaso/NationalEmissionsInventory/master/images/coalEmissions.png)
