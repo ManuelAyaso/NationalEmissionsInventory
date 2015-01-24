@@ -26,3 +26,9 @@ The nonpoint type has seen a clear decrease in the emissions from PM2.5, the poi
 The coal related emissions have decreased from 1999 to 2008 (from more than 500 thousands to less than 350 thousands), but the biggest decrease was produced after 2005.
 
 ![alt tag](https://raw.githubusercontent.com/ManuelAyaso/NationalEmissionsInventory/master/images/coalEmissions.png)
+
+5) How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
+
+It has decreased from more than 3 thousand to less than 2 thousend, but from from 2002 to 2005 it has increased considerably.
+
+
