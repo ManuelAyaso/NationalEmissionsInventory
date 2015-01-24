@@ -18,7 +18,7 @@ data = within(data, {
 
 vehicleEmissionsByCityAndYear <- ddply(data, c("year", "city"), summarize, Emissions = sum(Emissions))
 
-png("images/vehicleEmissionsByCityAndYear")
+png("images/vehicleEmissionsByCityAndYear.png")
 
 plot <- qplot(year, Emissions, data = vehicleEmissionsByCityAndYear, facets = .~ city)
 print(plot)
