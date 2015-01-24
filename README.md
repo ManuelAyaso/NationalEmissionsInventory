@@ -32,3 +32,10 @@ The coal related emissions have decreased from 1999 to 2008 (from more than 500 
 It has decreased from more than 3 thousands to less than 2 thousands, but from from 2002 to 2005 it has increased considerable.
 
 ![alt tag](https://raw.githubusercontent.com/ManuelAyaso/NationalEmissionsInventory/master/images/vehicleEmissions.png)
+
+6) Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, Which city has seen greater changes over time in motor vehicle emissions?
+
+Los Angeles has clearly changed more over the years.
+
+![alt tag](https://raw.githubusercontent.com/ManuelAyaso/NationalEmissionsInventory/master/images/vehicleEmissionsByCityAndYear.png)
+
